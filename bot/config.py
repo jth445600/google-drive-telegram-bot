@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1811036053:AAEFUWvhelkRAc4RgAV4eRohGVoP-irTejM"
     APP_ID = "1715543"
     API_HASH = "803b8b20ef128b856f80a2f69a834640"
-    DATABASE_URL = "postgres://viiwkevsevxwvj:b08955767ba3544d13905b6d95eac7e5445eb7fc6e5d963dce43eb95178f4b72@ec2-52-6-77-239.compute-1.amazonaws.com:5432/d9abi1m8vkpot7"
+    DATABASE_URL = "postgres://wfiohhylegpfid:6d554886d817a0f69c0e055264280b9c1c18b307b4dc2671c40b75e1b75c3c23@ec2-34-228-100-83.compute-1.amazonaws.com:5432/d3sreuv5u3hsbk"
     SUDO_USERS = "742197142" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
